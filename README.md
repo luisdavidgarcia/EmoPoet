@@ -21,8 +21,8 @@ The project is organized as follows:
 
 - `backend` and `frontend` directories contain Dockerfiles for their respective services.
 - `docker-compose.yml` defines the setup for running the application.
-- `requirements.txt` lists the Python dependencies for the backend.
-- `setup.sh` is a script to set up the Python virtual environment for the backend.
+- `backend/requirements.txt` lists the Python dependencies for the backend.
+- `backend/setup.sh` is a script to set up the Python virtual environment for the backend.
 
 ## Getting Started
 
