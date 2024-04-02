@@ -19,7 +19,6 @@ Before you begin, ensure you have met the following requirements:
 
 The project is organized as follows:
 
-
 - `backend` and `frontend` directories contain Dockerfiles for their respective services.
 - `docker-compose.yml` defines the setup for running the application.
 - `requirements.txt` lists the Python dependencies for the backend.
